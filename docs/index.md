@@ -19,6 +19,9 @@ Unique features of our project involve the use of user input and pygame to creat
 ### About Us
 Our names are Eliyahu and Albert. We are artists.
 ### External resources
+
+[PyGame](https://www.pygame.org/news)
+
 [Monkeys Spinning Monkeys - Kevin MacLeod](https://www.youtube.com/watch?v=cMTEcjwKIQw)
 
 [Hollow Knight Piano Medley](https://www.youtube.com/watch?v=OjfJpUZy4Dk)
