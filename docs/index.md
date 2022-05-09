@@ -20,7 +20,9 @@ Unique features of our project involve the use of user input and pygame to creat
 Our names are Eliyahu and Albert. We are artists.
 ### External resources
 
-[PyGame](https://www.pygame.org/news)
+[Pygame](https://www.pygame.org/news)
+
+[pytest](https://docs.pytest.org/en/7.1.x/)
 
 [Monkeys Spinning Monkeys - Kevin MacLeod](https://www.youtube.com/watch?v=cMTEcjwKIQw)
 
